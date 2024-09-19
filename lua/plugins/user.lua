@@ -19,7 +19,6 @@ return {
     "AstroNvim/astrolsp",
     {
       opts = {
-        boom = { "bam" },
         formatting = {
           format_on_save = {
             enabled = false,
